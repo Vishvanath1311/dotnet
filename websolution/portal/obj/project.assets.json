@@ -1,0 +1,130 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "bll/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/bll.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/bll.dll": {}
+        }
+      },
+      "bol/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/bol.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/bol.dll": {}
+        }
+      },
+      "dal/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/dal.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/dal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bll/1.0.0": {
+      "type": "project",
+      "path": "../bll/bll.csproj",
+      "msbuildProject": "../bll/bll.csproj"
+    },
+    "bol/1.0.0": {
+      "type": "project",
+      "path": "../bol/bol.csproj",
+      "msbuildProject": "../bol/bol.csproj"
+    },
+    "dal/1.0.0": {
+      "type": "project",
+      "path": "../dal/dal.csproj",
+      "msbuildProject": "../dal/dal.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "bll >= 1.0.0",
+      "bol >= 1.0.0",
+      "dal >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\IET\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\DotNet\\websolution\\portal\\portal.csproj",
+      "projectName": "portal",
+      "projectPath": "C:\\DotNet\\websolution\\portal\\portal.csproj",
+      "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+      "outputPath": "C:\\DotNet\\websolution\\portal\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\DotNet\\websolution\\bll\\bll.csproj": {
+              "projectPath": "C:\\DotNet\\websolution\\bll\\bll.csproj"
+            },
+            "C:\\DotNet\\websolution\\bol\\bol.csproj": {
+              "projectPath": "C:\\DotNet\\websolution\\bol\\bol.csproj"
+            },
+            "C:\\DotNet\\websolution\\dal\\dal.csproj": {
+              "projectPath": "C:\\DotNet\\websolution\\dal\\dal.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

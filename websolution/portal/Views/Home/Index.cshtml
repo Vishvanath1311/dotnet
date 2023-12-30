@@ -1,0 +1,16 @@
+﻿@using System.Collections.Generic;   @* this is added bcoz to use generic collection in the code  *@
+@using portal.Models;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+   @{
+    List<Person> allmembers=(List<Person>)this.ViewData["Family"];
+        foreach(Person p in allmembers){
+            <p> <h3> @p.Id @p.Fname @p.Lname </h3> </p>
+        }
+   }
+</div>
