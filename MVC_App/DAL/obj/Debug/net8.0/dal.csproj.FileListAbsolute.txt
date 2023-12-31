@@ -1,0 +1,15 @@
+D:\PH19\IET Practice\dotNet\mvc_app\dal\obj\Debug\net8.0\dal.csproj.AssemblyReference.cache
+D:\PH19\IET Practice\dotNet\mvc_app\dal\obj\Debug\net8.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\PH19\IET Practice\dotNet\mvc_app\dal\obj\Debug\net8.0\dal.AssemblyInfoInputs.cache
+D:\PH19\IET Practice\dotNet\mvc_app\dal\obj\Debug\net8.0\dal.AssemblyInfo.cs
+D:\PH19\IET Practice\dotNet\mvc_app\dal\obj\Debug\net8.0\dal.csproj.CoreCompileInputs.cache
+D:\PH19\IET Practice\dotNet\mvc_app\dal\bin\Debug\net8.0\dal.deps.json
+D:\PH19\IET Practice\dotNet\mvc_app\dal\bin\Debug\net8.0\dal.dll
+D:\PH19\IET Practice\dotNet\mvc_app\dal\bin\Debug\net8.0\dal.pdb
+D:\PH19\IET Practice\dotNet\mvc_app\dal\bin\Debug\net8.0\bol.dll
+D:\PH19\IET Practice\dotNet\mvc_app\dal\bin\Debug\net8.0\bol.pdb
+D:\PH19\IET Practice\dotNet\mvc_app\dal\obj\Debug\net8.0\dal.csproj.CopyComplete
+D:\PH19\IET Practice\dotNet\mvc_app\dal\obj\Debug\net8.0\dal.dll
+D:\PH19\IET Practice\dotNet\mvc_app\dal\obj\Debug\net8.0\refint\dal.dll
+D:\PH19\IET Practice\dotNet\mvc_app\dal\obj\Debug\net8.0\dal.pdb
+D:\PH19\IET Practice\dotNet\mvc_app\dal\obj\Debug\net8.0\ref\dal.dll

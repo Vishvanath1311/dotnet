@@ -1,0 +1,11 @@
+D:\PH19\IET Practice\dotNet\mvc_app\bol\bin\Debug\net8.0\bol.deps.json
+D:\PH19\IET Practice\dotNet\mvc_app\bol\bin\Debug\net8.0\bol.dll
+D:\PH19\IET Practice\dotNet\mvc_app\bol\bin\Debug\net8.0\bol.pdb
+D:\PH19\IET Practice\dotNet\mvc_app\bol\obj\Debug\net8.0\bol.GeneratedMSBuildEditorConfig.editorconfig
+D:\PH19\IET Practice\dotNet\mvc_app\bol\obj\Debug\net8.0\bol.AssemblyInfoInputs.cache
+D:\PH19\IET Practice\dotNet\mvc_app\bol\obj\Debug\net8.0\bol.AssemblyInfo.cs
+D:\PH19\IET Practice\dotNet\mvc_app\bol\obj\Debug\net8.0\bol.csproj.CoreCompileInputs.cache
+D:\PH19\IET Practice\dotNet\mvc_app\bol\obj\Debug\net8.0\bol.dll
+D:\PH19\IET Practice\dotNet\mvc_app\bol\obj\Debug\net8.0\refint\bol.dll
+D:\PH19\IET Practice\dotNet\mvc_app\bol\obj\Debug\net8.0\bol.pdb
+D:\PH19\IET Practice\dotNet\mvc_app\bol\obj\Debug\net8.0\ref\bol.dll

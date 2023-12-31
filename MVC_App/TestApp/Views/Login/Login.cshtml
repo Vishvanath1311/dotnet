@@ -1,0 +1,14 @@
+@using BOL
+@{
+    ViewData["Title"] = "Login Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Login page</h1>
+    @{
+        List<Login> list=(List<Login>)this.ViewData["loginview"];
+        foreach(Login l in list){
+            <p>@l.Id    @l.Username     @l.Password</p>
+        }
+    }
+</div>
